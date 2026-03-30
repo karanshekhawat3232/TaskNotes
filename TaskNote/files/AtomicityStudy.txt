@@ -1,0 +1,7 @@
+Atomicity in Computing (ACID Property):
+In database systems, atomicity is one of the ACID (Atomicity, Consistency, Isolation, Durability) properties. It ensures that a series of operations either all occur or none occur, preventing partial updates that lead to data inconsistency. 
+YouTube
+YouTube
+Atomicity vs. Related Terms:
+Atomicity: Total atoms in a molecule.
+Valency: The number of bonds an atom can form, sometimes referred to as atomicity in older contexts

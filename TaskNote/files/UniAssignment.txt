@@ -1,0 +1,29 @@
+B.Tech. (Computer Science and Engineering)
+Semester: VI
+Subject: Artificial Intelligence
+Subject code: BCO019A
+Marks: 64
+UNIT-3 Assignment
+Sec-A (5x2=10marks)
+1. Define game playing in Artificial Intelligence.
+2. What is the difference between single-player and multi-player games?
+3. Define state space in a game problem.
+4. What is a terminal state?
+5. Explain the role of heuristic evaluation function.
+Sec-B
+/* Note: Each question may have one or two parts */ (3x7=21 marks)
+1. Explain the Minimax Algorithm in detail with a suitable example.
+2. Describe the working of Alpha-Beta Pruning and explain how it improves efficiency over
+minimax. Compare Minimax and Alpha-Beta pruning with advantages and limitations.
+3. Explain different types of game environments with examples (perfect, imperfect, zero-sum,
+etc.).
+Sec-C
+/* Note: Each question may have one, two, or three parts */
+[3*11=33 marks]
+1. Explain the Jug Problem with state space representation and solution steps.
+Solve the following Water Jug Problem:
+Jug A = 4 liters
+Jug B = 3 liters
+Measure exactly 2 liters
+2. Explain the 8-Puzzle (Tiles Problem) with example and state transitions.
+3. Solve a simple Tiles Problem using step-by-step moves.
